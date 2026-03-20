@@ -1,0 +1,1 @@
+hash:ID(Transaction){label:Transaction},blockHash,blockNumber,cumulativeGasUsed,fromAddress,gas:long,gasPrice:long,gasUsed:long,input,nonce,root,status,toAddress,transactionIndex,value:double,contractAddress

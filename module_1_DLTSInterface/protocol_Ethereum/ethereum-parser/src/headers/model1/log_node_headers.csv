@@ -1,0 +1,1 @@
+hash:ID(Log){label:Log},type,address,blockNumber,data,logIndex,topics:string[],transactionIndex

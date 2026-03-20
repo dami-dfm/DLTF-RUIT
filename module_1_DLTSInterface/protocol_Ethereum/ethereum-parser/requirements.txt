@@ -1,0 +1,4 @@
+ijson==3.2.3
+datrie==0.8.2
+python-dotenv==1.0.1
+py-evm==0.8.0b1
