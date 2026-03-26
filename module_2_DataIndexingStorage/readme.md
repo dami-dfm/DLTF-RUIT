@@ -1,3 +1,4 @@
+![PNRR2022banner](../banner.png)
 # Distributed Ledger Graph Framework
 
 This project provides a unified framework for representing, storing, and querying heterogeneous Distributed Ledger Technology (DLT) data using graph-based models and efficient compression techniques.

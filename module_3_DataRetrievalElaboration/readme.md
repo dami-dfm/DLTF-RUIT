@@ -1,3 +1,4 @@
+![PNRR2022banner](../banner.png)
 # Ledger Querying, Community Detection, and Anomaly Analysis
 
 This module extends the Distributed Ledger Graph Framework with advanced querying, community detection, and anomaly detection capabilities over large-scale temporal graphs.

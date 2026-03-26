@@ -1,3 +1,4 @@
+![PNRR2022banner](../banner.png)
 # Module 4 - Data Visualisation
 
 This folder contains the visual analytics module split into:

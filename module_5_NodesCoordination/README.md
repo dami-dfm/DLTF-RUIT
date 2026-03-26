@@ -1,3 +1,4 @@
+![PNRR2022banner](../banner.png)
 # On demand decentralized oracles Chainlink based architecture for blockchain
 This repository contains the implementation of a Chainlink-based flexible and reliable oracle system for on-demand objective data requests.
 
