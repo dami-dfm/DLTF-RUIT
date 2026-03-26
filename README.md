@@ -1,4 +1,4 @@
-![PNRR2022banner](../banner.png)
+![PNRR2022banner](./banner.png)
 # DLTF-RUIT
 
 Codebase for the DLT-FRUIT project
